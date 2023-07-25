@@ -1,5 +1,11 @@
 # Animal_model_mDNA_Gene_plots
 
+Mitochondrial DNA contains 37 genes, all of which are essential for normal mitochondrial function. Thirteen of these genes provide instructions for making enzymes involved in oxidative phosphorylation. Oxidative phosphorylation is a process that uses oxygen and simple sugars to create adenosine triphosphate (ATP), the cell's main energy source. The remaining genes provide instructions for making molecules called transfer RNA (tRNA) and ribosomal RNA (rRNA), which are chemical cousins of DNA. These types of RNA help assemble protein building blocks (amino acids) into functioning proteins.
+
+#Animals
+Most (bilaterian) animals have a circular mitochondrial genome. Medusozoa and calcarea clades however have species with linear mitochondrial chromosomes. With a few exceptions, animals have 37 genes in their mitochondrial DNA: 13 for proteins, 22 for tRNAs, and 2 for rRNAs.
+Mitochondrial genomes for animals average about 16,000 base pairs in length.[16] The anemone Isarachnanthus nocturnus has the largest mitochondrial genome of any animal at 80,923 bp. The smallest known mitochondrial genome in animals belongs to the comb jelly Vallicula multiformis, which consist of 9,961 bp
+
 
 #Homo_sapiens _mtDNA_plot ..
 
