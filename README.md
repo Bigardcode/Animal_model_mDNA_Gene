@@ -17,22 +17,22 @@ Most (bilaterian) animals have a circular mitochondrial genome. Medusozoa and ca
 Mitochondrial genomes for animals average about 16,000 base pairs in length.[16] The anemone Isarachnanthus nocturnus has the largest mitochondrial genome of any animal at 80,923 bp. The smallest known mitochondrial genome in animals belongs to the comb jelly Vallicula multiformis, which consist of 9,961 bp
 
 
-### Homo_sapiens _mtDNA_plot ..
+### Homo_sapiens mtDNA plot 
 
 ![A](https://github.com/Bigardcode/Animal_model_mDNA_Gene/assets/84800557/d0d886e5-5314-4c1d-98de-dd55358da057)
 
-### Mus_musculus_mtDNA_plot
+### Mus musculus mtDNA plot
 
 ![B](https://github.com/Bigardcode/Animal_model_mDNA_Gene/assets/84800557/9fafa997-d266-4fc4-a36c-8b95069539e0)
 
-### Xenopus_mtDNA_plot
+### Xenopus mtDNA plot
 
 ![C](https://github.com/Bigardcode/Animal_model_mDNA_Gene/assets/84800557/a2bcf13d-3265-4a3a-b99c-b9197da201c3)
 
-### Zebrafish_mtDNA_plot
+### Zebrafish mtDNA plot
 
 ![D](https://github.com/Bigardcode/Animal_model_mDNA_Gene/assets/84800557/22eeaa6b-1d20-4fbc-8720-3e5af33ab007)
 
-### Ovis_aries_mtDNA_plot
+### Ovis aries mtDNA plot
 
 ![E](https://github.com/Bigardcode/Animal_model_mDNA_Gene/assets/84800557/a22a9e41-95ed-478a-8ed0-47726e74afe5)
