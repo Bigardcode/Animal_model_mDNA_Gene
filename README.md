@@ -1,3 +1,13 @@
+![Abstract Slide 1](https://github.com/Bigardcode/Animal_model_mDNA_Gene/assets/84800557/04a62368-d666-4ce2-b41c-bcd8329964c9)
+
+
+
+
+
+
+
+
+
 # Animal_model_mDNA_Gene_plots
 
 Mitochondrial DNA contains 37 genes, all of which are essential for normal mitochondrial function. Thirteen of these genes provide instructions for making enzymes involved in oxidative phosphorylation. Oxidative phosphorylation is a process that uses oxygen and simple sugars to create adenosine triphosphate (ATP), the cell's main energy source. The remaining genes provide instructions for making molecules called transfer RNA (tRNA) and ribosomal RNA (rRNA), which are chemical cousins of DNA. These types of RNA help assemble protein building blocks (amino acids) into functioning proteins.
